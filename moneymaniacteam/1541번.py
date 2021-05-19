@@ -1,7 +1,5 @@
-
 str = input().split('-')
 result = []
-
 
 for i in range(len(str)):
     if not str[i].isalnum():
